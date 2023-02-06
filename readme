@@ -1,0 +1,5 @@
+1.修改serviceMain ip port 暴露文件夹地址
+2.启动serviceMain
+3.修改clientMain ip port 保存文件夹地址
+4.启动clientMain
+5.client控制台 可以输入 ls 查询列表   输入 get+空格+序号，下载服务器端指定资源
